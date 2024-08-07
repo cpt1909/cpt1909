@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **JavaScript and PowerBI**
 
-- 👨‍💻 All of my projects are available at [https://cpt2004.github.io/cpt2004/main-light.html](https://cpt2004.github.io/cpt2004/main-light.html)
+- 👨‍💻 All of my projects are available at [My Website](https://cpt2004.github.io)
 
 - 💬 Ask me about **Python, MySQL**
 
 - 📫 How to reach me **cpthaarakenth@gmail.com**
 
-- 📄 Know about my experiences [https://cpt2004.github.io/cpt2004/docs/resume.pdf](https://cpt2004.github.io/cpt2004/docs/resume.pdf)
+- 📄 To know about my experiences, [Click Here](https://cpt2004.github.io/docs/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

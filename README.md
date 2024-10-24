@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **JavaScript and Django**
 
-- 👨‍💻 All of my projects are available at [My Website](https://cpt2004.github.io)
+- 👨‍💻 All of my projects are available at [My Website](https://cpt2004.pythonanywhere.com/)
 
 - 💬 Ask me about **Python, MySQL**
 
 - 📫 How to reach me **cpthaarakenth@gmail.com**
 
-- 📄 To know about my experiences, [Click Here](https://cpt2004.github.io/docs/resume.pdf)
+- 📄 To know about my experiences, [Click Here](https://cpt2004.pythonanywhere.com/docs/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

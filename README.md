@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cpthaarakenth@gmail.com**
 
-- 📄 To know about my experiences, [Click Here](https://cpt2004.pythonanywhere.com/docs/resume.pdf)
+- 📄 To know about my experiences, [Click Here](https://cpt2004.pythonanywhere.com/static/docs/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

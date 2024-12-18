@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Thaarakenth</h1>
 <h3 align="center">A Machine Learning and Web Development Aspirant based in Chennai</h3>
 
-- 🌱 I’m currently learning **JavaScript and Django**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [My Website](https://cpt2004.pythonanywhere.com/)
 

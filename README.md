@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Thaarakenth</h1>
-<h3 align="center">A Machine Learning and Web Development Aspirant based in Chennai</h3>
+<h3 align="center">A Machine Learning and Web Development Aspirant based in Chennai, India</h3>
 
 - 🌱 I’m currently learning **Next.js**
 

@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [My Website](https://cpt2004.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [My Website](https://thaarakenthcp.vercel.app/)
 
 - 💬 Ask me about **Python, MySQL**
 
 - 📫 How to reach me **cpthaarakenth@gmail.com**
-
-- 📄 To know about my experiences, [Click Here](https://cpt2004.pythonanywhere.com/static/docs/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

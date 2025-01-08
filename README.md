@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [My Website](https://thaarakenthcp.vercel.app/)
+- 👨‍💻 Visit my [Website](https://thaarakenthcp.vercel.app/)
 
 - 💬 Ask me about **Python, MySQL**
 
